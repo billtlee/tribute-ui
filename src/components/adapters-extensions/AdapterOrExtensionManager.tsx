@@ -644,9 +644,7 @@ export default function AdapterOrExtensionManager() {
         {renderDaoName()}
         {renderErrorMessage()}
         <p>
-          Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla
-          consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus
-          dictum fermentum vel tincidunt neque. Sed sed lacinia...
+          Adapter Manager
         </p>
         <div className="adapter-extension__selection">
           <div>

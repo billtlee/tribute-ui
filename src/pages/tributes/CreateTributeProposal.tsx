@@ -659,9 +659,7 @@ function RenderWrapper(props: React.PropsWithChildren<any>): JSX.Element {
         <div className="form-wrapper">
           <div className="form__description">
             <p>
-              Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla
-              consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut
-              lacus dictum fermentum vel tincidunt neque. Sed sed lacinia...
+              Use this page to create proposals to pay tribute to the DAO.
             </p>
           </div>
 
